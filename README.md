@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Mayank Gaurav 👋
 
-<!--
-**iMayankGaurav/iMayankGaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student at **IIT Patna**, passionate about software development, algorithms, and building intelligent tools.
 
-Here are some ideas to get you started:
+*   🏆 Competitive Programming: Coordinator of CP @ NJACK | Specialist on Codeforces.
+*   🌱 I’m currently learning: Advanced Deep Learning architectures and Systems Design.
+*   📫 Reach me at: https://www.linkedin.com/in/imayankgaurav/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+**Languages:** C++, Python, JavaScript, HTML/CSS, Java   
+
+### 🚀 Featured Projects
+*   **AI Study Note Sorter:** An autonomous Android agent using Google Gemini Flash to organize gallery study materials.
+*   **Hybrid-Movie-Recommender:** ML based movie recommender system using cosine similarity.
