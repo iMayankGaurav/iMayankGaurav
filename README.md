@@ -2,7 +2,7 @@
 
 I'm a B.Tech student at **IIT Patna**, passionate about software development, algorithms, and building intelligent tools.
 
-*    Competitive Programming: Coordinator of CP @ NJACK | Specialist on Codeforces.
+*    Competitive Programming: Coordinator of CP @ NJACK | Expert on Codeforces.
 *    I’m currently learning: Advanced Deep Learning architectures and Systems Design.
 *    Reach me at: https://www.linkedin.com/in/imayankgaurav/
 
